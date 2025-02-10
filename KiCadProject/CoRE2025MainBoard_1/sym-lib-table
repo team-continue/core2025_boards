@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "teensy_library")(type "Legacy")(uri "${KIPRJMOD}/../../ExternalLib/teensy_library/teensy.lib")(options "")(descr ""))
+  (lib (name "core2025_library")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/core2025_library/core2025_library.kicad_sym")(options "")(descr ""))
+)
