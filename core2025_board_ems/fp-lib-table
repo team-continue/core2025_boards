@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "core2025_board_ems")(type "KiCad")(uri "${KIPRJMOD}/core2025_board_ems.pretty")(options "")(descr ""))
+)
